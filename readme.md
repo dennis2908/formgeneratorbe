@@ -1,19 +1,23 @@
 ```
-Built with go v1.16, beego
+Built with go v1.16 windows/amd64, beego
 ```
 
 ```
-docker compose build
+install go v1.16 windows/amd64
 ```
 
 ```
-docker compose up
+install bee go framework
 ```
 
 ```
-Username : console 
-Password : myconsole
+add new database name : formbuilder. Password postgres : 123456, user=postgres
+```
 
+run cmd :
+
+```
+bee run
 ```
 
 ```
