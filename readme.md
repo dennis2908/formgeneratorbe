@@ -21,9 +21,5 @@ bee run
 ```
 
 ```
-Front End : https://github.com/dennis2908/sharingFE
-```
-
-```
-Video : https://www.youtube.com/watch?v=fLawYtP_uCg
+Front End : https://github.com/dennis2908/formgeneratorfe
 ```
